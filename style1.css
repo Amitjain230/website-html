@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Barlow', sans-serif;
+}
+.my1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border: 10px solid white;
+}
+.my1 ul{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    gap: 40px;
+    list-style: none;
+    font-size: 20px;
+}
+.my1 ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.my2{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    background-color: rgb(242, 242, 242);
+    padding: 5px;
+    
+}
+
+#my1{
+    background-color: tomato;
+    color: white;
+    font-size: 20px;
+    margin-top: -2px;
+}
+.my2 a{
+    text-decoration: none;
+    color: gray;
+    
+}
+.h1e{
+    display: flex;
+    justify-content: space-between;
+    gap: 3px;
+}
+.my1 h1{
+    font-size: 30px;
+
+}
+.my3{
+
+    background-image:url("https://fingoya.com/assets/img/img/carousel-1.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 800px;
+}
+.my6{
+    padding: 50px;
+    color: white;
+    padding: 272px;
+    font-size: 19px;
+}
+.my5{
+    color: white;
+    font-size: 72px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -250px;
+    margin-left: 50;
+    margin-right: 20px;
+
+}
+.my11{
+    color: white;
+    font-size: 70px;
+    margin-top: 10px;
+}
+#h1e :hover{
+    text-decoration: none;
+    color: tomato;
+}
+
+.my8{
+    margin-top: 20px;
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+    border-radius: 50px;
+    font-size: 18px;
+    box-shadow: 20px white;
+}
+
+.my8:hover{
+    background-color: tomato;
+    color: black;
+}
+.my9{
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 18px;
+    font-size: 18px;
+    box-shadow: 20px white;
+    padding: 20px;
+    text-align: center;
+}
+.my10{
+    padding: 10px;
+    justify-content: space-evenly;
+    display: flex;
+    margin-left: 540px;
+    margin-right: 500px;
+}
+.my12,.my13{
+    background-color: white;
+    border: solid rgb(248, 247, 247);
+}
+.my7{
+    display: grid;
+    grid-template-rows: repeat(1,auto);
+    grid-template-columns: repeat(2,auto);
+    height: 70vh;
+    border: 3px solid black;
+    font-size: 25px;
+    width: 800px;
+
+}
+.my12 h1{
+margin: 100px;
+margin-left: 50px;
+}
+.my12 span{
+    color: tomato;
+}
+.my12 h4{
+    color: tomato;
+    margin-top: -80px;
+    margin-left: 50px;
+    margin-right: -50px;
+    font-size: 25px;
+}
+.my13{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: px;
+    color: grey;
+    
+}
+.my14{
+    font-size: 18px;
+    margin-top: px;
+    margin-left: 50px;
+    color: grey;
+}
+.my15{
+    margin-top: 20px;
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+    border-radius: 50px;
+    font-size: 18px;
+    box-shadow: 20px white;
+    margin-left: 50px;
+}
+
+.my15:hover{
+    background-color: tomato;
+    color: black;
+}
+.my16{
+    
+}
